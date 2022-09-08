@@ -10,7 +10,6 @@ namespace GenericsIntro
     {
         T[] items;
 
-
         public MyList()
         {
             items = new T[0];
@@ -18,8 +17,7 @@ namespace GenericsIntro
         public void Add(T item)
         {
 
-          T[] tempArray = items;
-
+            T[] tempArray = items;
 
             items = new T[tempArray.Length + 1];
             for (int i = 0; i < tempArray.Length; i++)
@@ -38,8 +36,8 @@ namespace GenericsIntro
         }
         
 
-	
 
+	
 	}
 
     
