@@ -16,7 +16,6 @@ namespace GenericsIntro
 
             isimler.Show();
 
-
         }
     }
 }

@@ -9,7 +9,7 @@ namespace GenericsIntro
     class MyList<T>
     {
         T[] items;
-       
+
 
         public MyList()
         {
@@ -20,13 +20,13 @@ namespace GenericsIntro
 
           T[] tempArray = items;
 
+
             items = new T[tempArray.Length + 1];
             for (int i = 0; i < tempArray.Length; i++)
             {
                 items[i] = tempArray[i];
             }
             items[items.Length - 1] = item;
-
 
         }
         public void Show()
