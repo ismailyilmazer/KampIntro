@@ -28,7 +28,6 @@ namespace Oop3
             List<ILoggerService> loggerService = new List<ILoggerService> { new DataBaseLoggerService(),new FileLoggerService()};
             basvuruManager.BasvuruYap(esnafKrediManager,loggerService );            
             
-
         }
     }
 }
