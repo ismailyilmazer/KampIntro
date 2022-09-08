@@ -26,7 +26,8 @@ namespace Oop3
             IKrediManager esnafKrediManager = new EsnafKrediManager();
             esnafKrediManager.Hesapla();
             List<ILoggerService> loggerService = new List<ILoggerService> { new DataBaseLoggerService(),new FileLoggerService()};
-            basvuruManager.BasvuruYap(esnafKrediManager,loggerService );            
+            basvuruManager.BasvuruYap(esnafKrediManager,loggerService );       
+            
             
         }
     }
