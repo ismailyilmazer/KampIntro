@@ -17,7 +17,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeReferansTipler", "Co
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{6419EDEC-4C27-41BE-A775-17C76B7BB333}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DamaDemo1", "DamaDemo1\DamaDemo1.csproj", "{8CFF4D56-8C4E-41F6-BFEA-4A4C0A37C3D3}"
+<<<<<<<<< Temporary merge branch 1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{6C9286FD-07CA-4810-AD32-4094A0F3273C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{32295C1C-A337-4A5C-BDB5-5C41E7A13F17}"
+=========
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{6C9286FD-07CA-4810-AD32-4094A0F3273C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{32295C1C-A337-4A5C-BDB5-5C41E7A13F17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oop2", "Oop2\Oop2.csproj", "{FBF9852A-9483-43B7-9117-3E7BEAE9C2F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oop3", "Oop3\Oop3.csproj", "{9DA5346B-8F7C-4A02-AD9D-92B96C024B4F}"
+>>>>>>>>> Temporary merge branch 2
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -53,10 +65,25 @@ Global
 		{6419EDEC-4C27-41BE-A775-17C76B7BB333}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6419EDEC-4C27-41BE-A775-17C76B7BB333}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6419EDEC-4C27-41BE-A775-17C76B7BB333}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8CFF4D56-8C4E-41F6-BFEA-4A4C0A37C3D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8CFF4D56-8C4E-41F6-BFEA-4A4C0A37C3D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8CFF4D56-8C4E-41F6-BFEA-4A4C0A37C3D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8CFF4D56-8C4E-41F6-BFEA-4A4C0A37C3D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C9286FD-07CA-4810-AD32-4094A0F3273C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C9286FD-07CA-4810-AD32-4094A0F3273C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C9286FD-07CA-4810-AD32-4094A0F3273C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C9286FD-07CA-4810-AD32-4094A0F3273C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32295C1C-A337-4A5C-BDB5-5C41E7A13F17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32295C1C-A337-4A5C-BDB5-5C41E7A13F17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32295C1C-A337-4A5C-BDB5-5C41E7A13F17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32295C1C-A337-4A5C-BDB5-5C41E7A13F17}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<<<< Temporary merge branch 1
+=========
+		{FBF9852A-9483-43B7-9117-3E7BEAE9C2F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBF9852A-9483-43B7-9117-3E7BEAE9C2F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBF9852A-9483-43B7-9117-3E7BEAE9C2F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBF9852A-9483-43B7-9117-3E7BEAE9C2F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DA5346B-8F7C-4A02-AD9D-92B96C024B4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DA5346B-8F7C-4A02-AD9D-92B96C024B4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DA5346B-8F7C-4A02-AD9D-92B96C024B4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DA5346B-8F7C-4A02-AD9D-92B96C024B4F}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>>>> Temporary merge branch 2
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
